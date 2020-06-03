@@ -1,23 +1,24 @@
 {
-  "name": "boilerplate",
+  "name": "2020-06-03-algolia-gives-you-superpowers",
   "version": "1.0.0",
   "description": "<!--\r *** Thanks for checking out this README Template. If you have a suggestion that would\r *** make this better, please fork the repo and create a pull request or simply open\r *** an issue with the tag \"enhancement\".\r *** Thanks again! Now go create something AMAZING! :D\r -->",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --mode development --open"
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SantiagoGuerra/boilerplate.git"
+    "url": "git+https://github.com/SantiagoGuerra/2020-06-03-algolia-gives-you-superpowers.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SantiagoGuerra/boilerplate/issues"
+    "url": "https://github.com/SantiagoGuerra/2020-06-03-algolia-gives-you-superpowers/issues"
   },
-  "homepage": "https://github.com/SantiagoGuerra/boilerplate#readme",
+  "homepage": "https://github.com/SantiagoGuerra/2020-06-03-algolia-gives-you-superpowers#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
